@@ -4,7 +4,7 @@ local M = {}
 
 M.classic = {
   name = 'monokai',
-  base0 = '#222426',
+  base0 = '#1f1e19',
   base1 = '#272a30',
   base2 = '#272822',
   base3 = '#2E323C',
@@ -33,7 +33,7 @@ M.classic = {
 
 M.pro = {
   name = 'monokai_pro',
-  base0 = '#222426',
+  base0 = '#1f1e19',
   base1 = '#211F22',
   base2 = '#272822',
   base3 = '#2E323C',
@@ -62,7 +62,7 @@ M.pro = {
 
 M.soda = {
   name = 'monokai_soda',
-  base0 = '#222426',
+  base0 = '#1f1e19',
   base1 = '#211F22',
   base2 = '#272822',
   base3 = '#2E323C',
