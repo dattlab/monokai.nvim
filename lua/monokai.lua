@@ -4,10 +4,10 @@ local M = {}
 
 M.classic = {
   name = 'monokai',
-  base0 = '#1f1e19',
+  base0 = '#272822',
   base1 = '#272a30',
   base2 = '#272822',
-  base3 = '#2E323C',
+  base3 = '#1f1e19',
   base4 = '#333842',
   base5 = '#4d5154',
   base6 = '#9ca0a4',
@@ -27,16 +27,16 @@ M.classic = {
   red = '#e95678',
   diff_add = '#3d5213',
   diff_remove = '#4a0f23',
-  diff_change = '#27406b',
+  diff_change = '#272822',
   diff_text = '#23324d',
 }
 
 M.pro = {
   name = 'monokai_pro',
-  base0 = '#1f1e19',
+  base0 = '#272822',
   base1 = '#211F22',
   base2 = '#272822',
-  base3 = '#2E323C',
+  base3 = '#1f1e19',
   base4 = '#333842',
   base5 = '#4d5154',
   base6 = '#72696A',
@@ -56,16 +56,16 @@ M.pro = {
   red = '#FD6883',
   diff_add = '#3d5213',
   diff_remove = '#4a0f23',
-  diff_change = '#27406b',
+  diff_change = '#272822',
   diff_text = '#23324d',
 }
 
 M.soda = {
   name = 'monokai_soda',
-  base0 = '#1f1e19',
+  base0 = '#272822',
   base1 = '#211F22',
   base2 = '#272822',
-  base3 = '#2E323C',
+  base3 = '#1f1e19',
   base4 = '#333842',
   base5 = '#4d5154',
   base6 = '#72696A',
@@ -85,7 +85,7 @@ M.soda = {
   red = '#f3005f',
   diff_add = '#3d5213',
   diff_remove = '#4a0f23',
-  diff_change = '#27406b',
+  diff_change = '#272822',
   diff_text = '#23324d',
 }
 
